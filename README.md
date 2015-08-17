@@ -35,6 +35,10 @@ Other commands can also be executed.  For example, to run a test task:
 docker run -it --rm my-image npm test
 ```
 
+## License
+docker-npm-gyp-onbuild is licensed under the MIT license.  See
+[LICENSE](LICENSE) for the full license text.
+
 [node.js]: http://nodejs.org/
 [npm]: https://www.npmjs.org/
 [ONBUILD]: https://docs.docker.com/reference/builder/#onbuild
